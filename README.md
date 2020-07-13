@@ -1,2 +1,2 @@
-# mortgage-loan-approval
+# Mortgage-loan-approval
 It contains mortgage loan approval analysis
