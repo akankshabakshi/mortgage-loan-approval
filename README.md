@@ -7,3 +7,6 @@ This entails mortgage loan approval analysis
 
 1. Find the population whose loan got approved
 2. Reasons for loan approval
+
+-------------------------------------------------------------------------------------------------------------
+You can find the dataset here: https://www.kaggle.com/dinu1763/mortgage-loan-approval?select=train_values.csv
